@@ -29,6 +29,9 @@ This commands includes
 • Other IP Commands e.g. show ip route etc.
 <BR>
 
+### By: S Sajetha
+### Register Number:212223100049
+---
 ## Output
 ### netstat
 ![image](https://github.com/user-attachments/assets/b242ede3-f305-45ac-a29d-566f707b0fae)
